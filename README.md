@@ -1,4 +1,4 @@
-# Vouting_Proyect
+# dApp Voting Project
 
 ![Ice Cream Pic](https://github.com/rulo96z/Vouting_Proyect/blob/master/image/Eii7lfJWAAEQJ-n.png?raw=True)
 
