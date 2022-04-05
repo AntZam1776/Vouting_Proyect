@@ -19,7 +19,7 @@ This Web App was written in Python 3.7 & Solidity with the following packages an
 ## Usage
 
 The File of interest is labeled ``` voitingApp.py ```
-To run the file open the terminal, navigate to the directory ```Vouting_Proyect``` and run ``` streamlit run voitingApp.py ```
+To run the file open the terminal, navigate to the directory ```dApp_Voting_Project``` and run ``` streamlit run VotingdApp.py ```
 This web app is using sensitive information for that reason we are using ``` .env ``` file in the working directory.
 
 ---
